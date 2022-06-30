@@ -79,26 +79,26 @@ Verifying the contract on etherscan, copy your contract address from here and he
 
 Go to your contract and click "Verify and publish"
 
-<img width="960" alt="DeployGuideStep13" src="https://user-images.githubusercontent.com/104795657/176564421-0d75c13f-8e00-4265-96f6-f15ca80aae1a.png">
+<img width="680" alt="DeployGuideStep13" src="https://user-images.githubusercontent.com/104795657/176564421-0d75c13f-8e00-4265-96f6-f15ca80aae1a.png">
 
-<img width="943" alt="DeployGuideStep14" src="https://user-images.githubusercontent.com/104795657/176564437-ae20837f-2337-4f61-9480-1fe822c67ddd.png">
+<img width="680" alt="DeployGuideStep14" src="https://user-images.githubusercontent.com/104795657/176564437-ae20837f-2337-4f61-9480-1fe822c67ddd.png">
 
 # Step 14:
 
 For your flattened contract your contract address will be there already and for the 2nd choice it will be "Solidity (Single file)", the compiler version used in remix which is usually 0.8.7 and the license used which can be found on line 1 in your smart contract. 
 
-<img width="944" alt="DeployGuideStep15" src="https://user-images.githubusercontent.com/104795657/176564447-4283bda1-239e-497b-af5e-59fdd6035a21.png">
+<img width="680" alt="DeployGuideStep15" src="https://user-images.githubusercontent.com/104795657/176564447-4283bda1-239e-497b-af5e-59fdd6035a21.png">
 
 # Step 15:
 
 Go back to remix and copy the entire contract code and paste it into the first field below, you will then see a second field below which may be empty but will sometimes display and error message, if the error message is there delete the field of text and leave it empty like below then use the captcha and verify your contract.
 
-<img width="959" alt="DeployGuideStep16" src="https://user-images.githubusercontent.com/104795657/176564453-bfcfcf97-3d25-402e-a103-f820f9689db2.png">
+<img width="680" alt="DeployGuideStep16" src="https://user-images.githubusercontent.com/104795657/176564453-bfcfcf97-3d25-402e-a103-f820f9689db2.png">
 
-<img width="960" alt="DeployGuideStep17" src="https://user-images.githubusercontent.com/104795657/176564472-b60d43bf-0467-4b1f-a4ba-6cd4073c8eb5.png">
+<img width="680" alt="DeployGuideStep17" src="https://user-images.githubusercontent.com/104795657/176564472-b60d43bf-0467-4b1f-a4ba-6cd4073c8eb5.png">
 
 # Step 16: 
 
 After this you will be redirected to this screen and your contract is now verified.
 
-<img width="958" alt="DeployGuideStep18" src="https://user-images.githubusercontent.com/104795657/176564479-03fcd940-d3dd-4954-8acb-4a00bebf56d5.png">
+<img width="680" alt="DeployGuideStep18" src="https://user-images.githubusercontent.com/104795657/176564479-03fcd940-d3dd-4954-8acb-4a00bebf56d5.png">
